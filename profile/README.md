@@ -4,4 +4,4 @@
 
 web3 social layer protocol includes a messaging protocol, payment protocol, and a protocol for measuring and rewarding contributions
 
-[![](https://dcbadge.vercel.app/api/server/gaiaprotocol?style=flat-square&theme=default-inverted)](https://discord.gg/gaiaprotocol)
+[![](https://dcbadge.vercel.app/api/server/gaia-protocol-931958830873575474?style=flat-square&theme=default-inverted)](https://discord.gg/gaia-protocol-931958830873575474)
