@@ -1,5 +1,5 @@
 # Gaia Protocol
 
-Web3 social & gaming protocol
+The Web3 protocol for social and gaming.
 
-![gods-banner](https://github.com/gaiaprotocol/.github/assets/1523129/d3c1e687-711a-445b-beb8-d3592bc3fd7b)
+![banner](https://github.com/gaiaprotocol/common-resources/raw/refs/heads/main/public/hero/hero.jpg)
